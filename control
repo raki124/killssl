@@ -1,0 +1,9 @@
+Package: com.tk.killssl
+Name: killssl
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: alamisi
+Author: alamisi
+Section: Tweaks

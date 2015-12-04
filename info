@@ -1,0 +1,5 @@
+Filter = {Bundles = ("com.apple.UIKit","com.apple.AppStore","com.apple.itunesstored","com.apple.AuthKit1");};
+
+Dec  4 19:16:34 iPhone AppStore[1449] <Warning>: Valid Context? yes. Resume options: (null), class: IKJSApplication
+Dec  4 19:16:35 iPhone SpringBoard[91] <Warning>: [<_UIKeyboardArbiterHandle: 0x13017aa70; PID 367: com.apple.accessibility.AccessibilityUIServer <(null)>; hosting PIDs {(
+	)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion

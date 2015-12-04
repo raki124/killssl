@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.apple1.itunesstored","com.apple1.AppStore" ); }; }
